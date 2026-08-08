@@ -1,6 +1,6 @@
-# 📈 AI Stock Price Prediction using LSTM
+#  AI Stock Price Prediction using LSTM
 
-## 📌 Overview
+##  Overview
 
 The **AI Stock Price Prediction** project is a machine learning application that predicts future stock prices of leading Indian companies using a **Long Short-Term Memory (LSTM)** neural network. The application fetches historical stock market data from **Yahoo Finance**, trains an LSTM model, and forecasts the next **30 business days** of stock prices through an interactive **Streamlit** dashboard.
 
@@ -8,21 +8,21 @@ This project demonstrates the practical application of **Deep Learning**, **Time
 
 ---
 
-# ✨ Features
+#  Features
 
-* 📊 Real-time stock data from Yahoo Finance
-* 🤖 LSTM-based Deep Learning model
-* 📈 Predicts the next 30 business days
-* 🏢 Supports multiple Indian companies
-* 📅 Monthly stock performance visualization
-* 📉 Actual vs Predicted price comparison
-* ⚡ Interactive Streamlit dashboard
-* 📂 Automatic data preprocessing and scaling
-* 🔄 Cached model for faster execution
+*  Real-time stock data from Yahoo Finance
+*  LSTM-based Deep Learning model
+*  Predicts the next 30 business days
+*  Supports multiple Indian companies
+*  Monthly stock performance visualization
+*  Actual vs Predicted price comparison
+*  Interactive Streamlit dashboard
+*  Automatic data preprocessing and scaling
+*  Cached model for faster execution
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ### Programming Language
 
@@ -67,7 +67,7 @@ Historical Stock Data
 
 ---
 
-# 🏢 Supported Companies
+#  Supported Companies
 
 * Reliance Industries
 * Tata Consultancy Services (TCS)
@@ -84,7 +84,7 @@ Historical Stock Data
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 ### Stock Selection
 
@@ -104,7 +104,7 @@ Visualizes stock performance for a selected month in the latest available year.
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ## Clone Repository
 
@@ -132,7 +132,7 @@ streamlit run app.py
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Stock-Price-Prediction/
@@ -145,7 +145,7 @@ Stock-Price-Prediction/
 
 ---
 
-# 📈 Machine Learning Concepts Used
+#  Machine Learning Concepts Used
 
 * Long Short-Term Memory (LSTM)
 * Time Series Forecasting
@@ -157,7 +157,7 @@ Stock-Price-Prediction/
 
 ---
 
-# 📊 Model Details
+#  Model Details
 
 | Parameter       | Value              |
 | --------------- | ------------------ |
@@ -175,6 +175,8 @@ Stock-Price-Prediction/
 
 
 * Dashboard
+  <img width="1893" height="991" alt="image" src="https://github.com/user-attachments/assets/4f54074e-3499-4695-95dd-e292784fe02c" />
+
 * Actual vs Predicted Graph
 * 30-Day Forecast
   <img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/dc0dee8d-2751-409f-b73a-6bbbda03e4df" />
