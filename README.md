@@ -178,6 +178,8 @@ Stock-Price-Prediction/
   <img width="1893" height="991" alt="image" src="https://github.com/user-attachments/assets/4f54074e-3499-4695-95dd-e292784fe02c" />
 
 * Actual vs Predicted Graph
+  <img width="1814" height="964" alt="image" src="https://github.com/user-attachments/assets/31286e1a-9df4-492c-b301-051f56cac9f0" />
+
 * 30-Day Forecast
   <img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/dc0dee8d-2751-409f-b73a-6bbbda03e4df" />
 
