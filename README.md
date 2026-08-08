@@ -184,6 +184,8 @@ Stock-Price-Prediction/
   <img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/dc0dee8d-2751-409f-b73a-6bbbda03e4df" />
 
 * Monthly Performance
+  <img width="1757" height="968" alt="image" src="https://github.com/user-attachments/assets/f12cf4e2-2f2b-4af9-bf80-8b89d38f0f9f" />
+
 
 ---
 
