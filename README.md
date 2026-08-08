@@ -172,11 +172,13 @@ Stock-Price-Prediction/
 
 # 📸 Screenshots
 
-> Screenshots will be added soon.
+
 
 * Dashboard
 * Actual vs Predicted Graph
 * 30-Day Forecast
+  <img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/dc0dee8d-2751-409f-b73a-6bbbda03e4df" />
+
 * Monthly Performance
 
 ---
