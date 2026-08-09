@@ -175,7 +175,8 @@ Stock-Price-Prediction/
 
 
 * Dashboard
-  <img width="1893" height="991" alt="image" src="https://github.com/user-attachments/assets/4f54074e-3499-4695-95dd-e292784fe02c" />
+  <img width="1352" height="472" alt="image" src="https://github.com/user-attachments/assets/6386b89b-89c5-43a5-b92c-66415068cb87" />
+
 
 * Actual vs Predicted Graph
   <img width="1460" height="629" alt="image" src="https://github.com/user-attachments/assets/2ac52ceb-2634-44be-bf7f-eae5a8802d1b" />
