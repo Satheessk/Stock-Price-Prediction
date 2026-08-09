@@ -195,7 +195,7 @@ Stock-Price-Prediction/
 
 # 🔮 Future Enhancements
 
-* Model accuracy metrics (RMSE, MAE, R²)
+
 * Interactive Plotly charts
 * Multiple prediction intervals
 * Candlestick chart visualization
