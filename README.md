@@ -178,13 +178,16 @@ Stock-Price-Prediction/
   <img width="1893" height="991" alt="image" src="https://github.com/user-attachments/assets/4f54074e-3499-4695-95dd-e292784fe02c" />
 
 * Actual vs Predicted Graph
-  <img width="1814" height="964" alt="image" src="https://github.com/user-attachments/assets/31286e1a-9df4-492c-b301-051f56cac9f0" />
+  <img width="1460" height="629" alt="image" src="https://github.com/user-attachments/assets/2ac52ceb-2634-44be-bf7f-eae5a8802d1b" />
+
 
 * 30-Day Forecast
-  <img width="1732" height="956" alt="image" src="https://github.com/user-attachments/assets/dc0dee8d-2751-409f-b73a-6bbbda03e4df" />
+  <img width="1460" height="665" alt="image" src="https://github.com/user-attachments/assets/0cac1a84-f2f5-41e9-bb00-f783f30a05a9" />
+
 
 * Monthly Performance
-  <img width="1757" height="968" alt="image" src="https://github.com/user-attachments/assets/f12cf4e2-2f2b-4af9-bf80-8b89d38f0f9f" />
+  <img width="1460" height="665" alt="image" src="https://github.com/user-attachments/assets/bae2a728-9edf-4981-a7cc-be8b7a280dca" />
+
 
 
 ---
